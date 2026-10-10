@@ -25,6 +25,24 @@
 
 ---
 
+## Paginota, en une phrase
+
+**Paginota est la plateforme de Bookmark Intelligence qui transforme des liens dispersés en une mémoire de travail organisée, recherchable et durable.**
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><b>Une bibliothèque, pas un dossier</b><br/><sub>Vos ressources vivent dans un espace conçu pour comprendre les relations, pas seulement pour stocker des URLs.</sub></td>
+    <td width="33%" valign="top"><b>Une recherche, pas une chasse</b><br/><sub>Filtres, contexte, domaines, collections et IA rendent chaque ressource retrouvable au moment utile.</sub></td>
+    <td width="33%" valign="top"><b>Une IA, pas une boîte noire</b><br/><sub>Les suggestions sont contrôlables, corrigeables et conçues pour améliorer la cohérence de votre bibliothèque.</sub></td>
+  </tr>
+</table>
+
+## Notre mission
+
+Nous pensons qu’une collection de liens ne devrait jamais devenir un cimetière numérique. Paginota redonne de la valeur à ce que vous avez déjà choisi de conserver : en réduisant le bruit, en révélant les connexions et en rendant la connaissance personnelle réellement utilisable.
+
+**Notre principe : conserver moins d’effort, retrouver plus de valeur.**
+
 ## Le problème
 
 Votre navigateur contient déjà une partie de votre mémoire professionnelle : outils, idées, documentation, recherches, articles et ressources à revoir. Mais un dossier de favoris ne suffit plus quand la collection grandit.
@@ -114,6 +132,16 @@ L’utilisateur reste décisionnaire : l’IA assiste, propose et accélère. El
 | **Les équipes créatives** | Un espace de veille pour classer inspirations, références, outils et tendances. |
 | **Les indépendants et consultants** | Une mémoire de travail pour retrouver rapidement méthodes, fournisseurs et ressources métier. |
 | **Les curateurs** | Un moyen de transformer une collection personnelle en listes partageables et ciblées. |
+
+## Les principes Paginota
+
+| Principe | Ce que cela signifie dans le produit |
+|---|---|
+| **Le signal avant le bruit** | Déduplication, normalisation et santé des liens empêchent votre bibliothèque de dériver. |
+| **Le contrôle avant l’automatisation** | Les imports, fusions et suggestions IA restent compréhensibles et validables. |
+| **La vitesse sans compromis** | L’expérience local-first permet d’organiser et de naviguer sans attendre chaque opération réseau. |
+| **La connaissance reste personnelle** | Les favoris privés restent séparés des collections que vous décidez explicitement de partager. |
+| **L’outil doit disparaître** | Une interface calme, accessible et modulaire laisse la place à votre travail, pas à la complexité. |
 
 ## Conçu pour la confiance
 
