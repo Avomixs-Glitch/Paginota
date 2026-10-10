@@ -19,6 +19,10 @@
 
 </div>
 
+![Illustration conceptuelle de Paginota : bibliothèque de favoris organisée dans une interface premium](assets/paginota-product-hero.jpg)
+
+<p align="center"><sub>Illustration conceptuelle de l’expérience Paginota — les captures produit authentiques seront ajoutées depuis une démo anonymisée.</sub></p>
+
 ---
 
 ## Le problème
@@ -87,6 +91,8 @@ Votre navigateur contient déjà une partie de votre mémoire professionnelle : 
 ## Une IA utile et contrôlée
 
 L’IA dans Paginota n’est pas un gadget ajouté après coup. Elle intervient là où une bibliothèque volumineuse demande le plus de temps : **la structuration et la redécouverte**.
+
+![Illustration conceptuelle : des ressources reliées à l’intelligence Paginota](assets/paginota-ai-intelligence.jpg)
 
 | Capacité IA | Valeur pour vous |
 |---|---|
@@ -163,3 +169,4 @@ Paginota est un produit actif dont le code source, l’infrastructure et l’imp
 
 </div>
 
+warning: in the working copy of 'docs/github-showcase/README.md', LF will be replaced by CRLF the next time Git touches it
